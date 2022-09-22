@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Programming\C programming\homework\C1091203\C109120301\main.c(8,13): warning C4013: 'isPrime' 未定義; 假設 extern 傳回整數
+  C109120301.vcxproj -> D:\Programming\C programming\homework\C1091203\x64\Debug\C109120301.exe

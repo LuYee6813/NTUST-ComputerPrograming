@@ -1,0 +1,9 @@
+﻿  main.c
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(31,13): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(26,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(32,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(34,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(36,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(38,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(40,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C programming\homework\C1091217\C109121701\main.c(17,33): warning C4101: 'temp': 未參考的區域變數

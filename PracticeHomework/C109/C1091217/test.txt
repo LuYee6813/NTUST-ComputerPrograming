@@ -1,0 +1,15 @@
+14,0.1,0.2,0.3,0.4
+Caspar Murray,50,25,100,80
+Rory Gordon,50,50,100,60
+Winnie Randolph,50,100,50,20
+Simrah Monaghan,50,25,50,20
+Harriette Rawlings,50,75,50,80
+Travis Herman,50,25,0,100
+Jeanette Allan,100,25,0,20
+Raiden Ho,50,75,50,100
+Ephraim Horton,50,50,25,40
+Pablo Bostock,100,25,0,60
+Tommy-Lee Wallis,100,100,75,40
+Amy-Louise Busby,100,50,50,100
+Jayden-Lee Mcloughlin,100,50,50,20
+Darien Knight,100,25,50,60

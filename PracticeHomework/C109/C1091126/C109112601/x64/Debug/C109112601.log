@@ -1,0 +1,5 @@
+﻿  main.c
+D:\Programming\C programming\homework\C1091126\C109112601\main.c(12,7): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\Programming\C programming\homework\C1091126\C109112601\main.c(13,13): warning C4013: 'strtol' 未定義; 假設 extern 傳回整數
+D:\Programming\C programming\homework\C1091126\C109112601\main.c(16,13): warning C4013: 'gcd' 未定義; 假設 extern 傳回整數
+  C109112601.vcxproj -> D:\Programming\C programming\homework\C1091126\x64\Debug\C109112601.exe

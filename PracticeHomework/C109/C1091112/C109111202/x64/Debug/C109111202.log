@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Programming\C programming\homework\C1091112\C109111202\main.c(8,6): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+D:\Programming\C programming\homework\C1091112\C109111202\main.c(11,24): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  C109111202.vcxproj -> D:\Programming\C programming\homework\C1091112\x64\Debug\C109111202.exe

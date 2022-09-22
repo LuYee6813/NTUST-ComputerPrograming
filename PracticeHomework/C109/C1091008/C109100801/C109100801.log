@@ -1,0 +1,1 @@
+﻿D:\Programming\C programming\homework\c1008\C109100801\C109100801.vcxproj(27,3): error MSB4019: 找不到匯入的專案 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props"。請確認 Import 宣告 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\\Microsoft.Cpp.Default.props" 中的運算式正確，以及該檔案位於磁碟中。

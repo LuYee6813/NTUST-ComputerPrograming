@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Programming\C programming\homework\C1091126\C109112602\main.c(13,9): warning C4013: 'Towers' 未定義; 假設 extern 傳回整數
+D:\Programming\C programming\homework\C1091126\C109112602\main.c(19,6): error C2371: 'Towers': 重複定義; 基本類型不相同
