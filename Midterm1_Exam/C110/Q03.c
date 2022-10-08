@@ -2,6 +2,8 @@
 #pragma warning(disable : 4996)
 #pragma warning(disable : 6031)
 #include <stdio.h>
+
+// 排序
 int qsort_cmp(const void* p1, const void* p2)
 {
 	int* a = (int*)p1;
@@ -11,8 +13,9 @@ int qsort_cmp(const void* p1, const void* p2)
 int main()
 {
 	int arr[10];
-	for (int i = 0; i < 10; i++)
-		scanf("%d", &arr[i]);
+	for (int i = 0; i < 10; i++){
+        scanf("%d", &arr[i]);
+    }
 	qsort(arr, 10, sizeof(int), qsort_cmp);
 	int output[10], len = 0;
 	int temp = arr[0];
@@ -20,6 +23,7 @@ int main()
 	{
 		if (temp == arr[i] && i != 0)
 			continue;
+
 		if (arr[i] == arr[i + 1])
 		{
 			output[len] = arr[i];
