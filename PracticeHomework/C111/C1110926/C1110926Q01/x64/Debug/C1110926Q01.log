@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aulau\OneDrive\桌面\C1110926\C1110926Q01\main.c(12,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  C1110926Q01.vcxproj -> C:\Users\aulau\OneDrive\桌面\C1110926\x64\Debug\C1110926Q01.exe
