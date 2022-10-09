@@ -7,7 +7,7 @@
 ## C1110919
 ### Q01
 ![Image](https://i.imgur.com/GKR0Mnk.png)
-```c=
+```c
 #pragma warning(disable : 4996)
 #pragma warning(disable : 6031)
 #include <stdio.h>
@@ -25,7 +25,7 @@ int main()
 ```
 ### Q02
 ![Image](https://i.imgur.com/1PVXw9o.png)
-```c=
+```c
 #pragma warning(disable : 4996)
 #pragma warning(disable : 6031)
 #include <stdio.h>
@@ -49,7 +49,7 @@ int main()
 ```
 ### Q03
 ![Image](https://i.imgur.com/yCU0GBN.png)
-```c=
+```c
 #pragma warning(disable : 4996)
 #pragma warning(disable : 6031)
 #include <stdio.h>
