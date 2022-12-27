@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(27,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(30,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(33,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(36,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(39,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111205\C1111205Q03\func.h(42,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  C1111205Q03.vcxproj -> C:\Users\Administrator\Desktop\計算機程式設計\C1111205\x64\Debug\C1111205Q03.exe

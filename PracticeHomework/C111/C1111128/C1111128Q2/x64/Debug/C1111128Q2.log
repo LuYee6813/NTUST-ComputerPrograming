@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Vanessa\Desktop\C-111\C1111128\C1111128Q2\main.c(26,13): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  C1111128Q2.vcxproj -> C:\Users\Vanessa\Desktop\C-111\C1111128\x64\Debug\C1111128Q2.exe

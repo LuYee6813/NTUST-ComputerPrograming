@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(13,17): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(14,17): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(15,17): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(23,16): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(24,16): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(25,16): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4313: 'printf': 格式字串中的 '%d' 與類型 'char *' 的引數 1 衝突
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4477: 'printf' : 格式字串 '%c' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'char *'
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4313: 'printf': 格式字串中的 '%c' 與類型 'char *' 的引數 2 衝突
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4477: 'printf' : 格式字串 '%c' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'char *'
+C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\C1111107Q01\main.c(46,10): warning C4313: 'printf': 格式字串中的 '%c' 與類型 'char *' 的引數 3 衝突
+  C1111107Q01.vcxproj -> C:\Users\Vanessa\Desktop\計算機程式設計\C1111107\x64\Debug\C1111107Q01.exe

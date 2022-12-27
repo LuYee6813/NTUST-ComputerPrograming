@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\aulau\OneDrive\桌面\C1111017\C1111017Q02\main.c(17,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  C1111017Q02.vcxproj -> C:\Users\aulau\OneDrive\桌面\C1111017\x64\Debug\C1111017Q02.exe

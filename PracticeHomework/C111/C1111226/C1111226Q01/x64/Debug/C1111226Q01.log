@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\計算機程式設計\C1111226\C1111226Q01\func.h(49,29): warning C4244: 'return': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111226\C1111226Q01\func.h(53,29): warning C4244: 'return': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111226\C1111226Q01\main.c(21,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111226\C1111226Q01\main.c(22,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Administrator\Desktop\計算機程式設計\C1111226\C1111226Q01\main.c(23,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  C1111226Q01.vcxproj -> C:\Users\Administrator\Desktop\計算機程式設計\C1111226\x64\Debug\C1111226Q01.exe
