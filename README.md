@@ -8,7 +8,6 @@
 [111學年](./PracticeHomework/C111/)</br>
 
 ## 期中考1
-[109學年](./Midterm1_Exam/C109/)</br>
 [110學年](./Midterm1_Exam/C110/)</br>
 [111學年](./Midterm1_Exam/C111/)</br>
 
