@@ -1,3 +1,2 @@
 ﻿  main.c
-C:\Users\Administrator\Desktop\GitHub\NTUST-ComputerPrograming\Final_Exam\C111\C111FINALQ04\func.h(9,11): warning C4477: 'scanf' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'double **'
-  C111FINALQ04.vcxproj -> C:\Users\Administrator\Desktop\GitHub\NTUST-ComputerPrograming\Final_Exam\C111\x64\Debug\C111FINALQ04.exe
+  C111FINALQ04.vcxproj -> G:\計算機程式設計\備份\C111FINAL\x64\Debug\C111FINALQ04.exe
